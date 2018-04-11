@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="{{ app()->getLocale() }}">
 <head>
-    <title>Landed by HTML5 UP</title>
+    <title>Antonio Saura Portfolio</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!--[if lte IE 8]><script src="/js/ie/html5shiv.js"></script><![endif]-->
@@ -14,7 +14,7 @@
 
     <!-- Header -->
     <header id="header">
-        <h1 id="logo"><a href="index.html">Mi curriculum</a></h1>
+        <h1 id="logo">Mi Portfolio</h1>
         <nav id="nav">
             <ul>
                 <li>Antonio Saura Cánovas</li>
@@ -29,6 +29,7 @@
                 <h2>The future has landed</h2>
                 <p>And there are no hoverboards or flying cars.<br />
                     Just apps. Lots of mother flipping apps.</p>
+                <p><a href="/pdfs/Curriculum.pdf" download="Curriculum">Mi Curriculum</a></p>
             </header>
             <span class="image"><img src="/images/asc.jpg" alt="" /></span>
         </div>
@@ -167,12 +168,12 @@
     <!-- Footer -->
     <footer id="footer">
         <ul class="icons">
-            <li><a href="https://www.facebook.com/antonio.sauracanovas" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-            <li><a href="https://twitter.com/Saurote" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-            <li><a href="https://www.instagram.com/saurote/" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-            <li><a href="https://www.linkedin.com/in/antonio-saura-canovas-79873249/" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
-            <li><a href="https://github.com/Shok958" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
-            <li><a href="antonio958@hotmail.com" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+            <li><a href="https://www.facebook.com/antonio.sauracanovas" target="_blank" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+            <li><a href="https://twitter.com/Saurote" target="_blank" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+            <li><a href="https://www.instagram.com/saurote/" target="_blank" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+            <li><a href="https://www.linkedin.com/in/antonio-saura-canovas-79873249/" target="_blank" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+            <li><a href="https://github.com/Shok958" target="_blank" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+            <li><a href="antonio958@hotmail.com" target="_blank" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
         </ul>
         <ul class="copyright">
             <li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
